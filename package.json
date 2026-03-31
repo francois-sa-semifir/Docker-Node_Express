@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "overrides": {
+    "path-to-regexp": ">=8.4.0"
   }
 }
